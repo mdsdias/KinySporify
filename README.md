@@ -1,9 +1,7 @@
-# ✨Template🎆
-## 🎆For My Repos✨
+# Criado para o Kiny-Kiny
 
-- [ ] Feito em Python?
-- [ ] Feito no VSCode?
-- [x] Feito com Amor?
+- [X] Feito em Python?
+- [X] Feito no VSCode?
 
 <div>
   <table>
